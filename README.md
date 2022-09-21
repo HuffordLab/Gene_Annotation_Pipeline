@@ -12,7 +12,7 @@
 7. Pick transcripts for evidence-based predictions (Mikado)
 8. Combine annotations (Mikado and Homology based predictions with _ab initio_) (GeMoMa)
 9. Identify primary transcripts (TRaCE)
-10. Finalize GFF3 files (custom)
+10. Finalize GFF3 files (custom) and calculate annotation metrics (AGAT, BUSCO)
 11. Perform repeat annotations (EDTA)
 12. Functional Annotations (TBD)
 
